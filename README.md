@@ -24,7 +24,7 @@ an excellent resource that has made learning OOP concepts simple, clear, and pra
 
 ## What's Inside
 
-- 📁 Code examples in Python, Java, and C++
+- 📁 Code examples in Java
 - 📚 Notes and explanations
 - 🧪 Small practice projects
 - ✅ Exercises with solutions    

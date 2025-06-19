@@ -4,7 +4,7 @@ Welcome to my Object-Oriented Programming (OOP) learning journey!
 
 ## 🙏 Special Thanks
 
-A big shout-out to [The Indian Programmer](https://www.youtube.com/@TheIndianProgrammer) YouTube channel —  
+A big shout-out to [The Indian Programmer](https://www.youtube.com/@indianprogrammer0001) YouTube channel —  
 an excellent resource that has made learning OOP concepts simple, clear, and practical.  
 
 > 🏆 Highly recommended if you're starting with OOP or want to deepen your understanding!

@@ -1,0 +1,64 @@
+// Notes
+
+✅ 1. Classes and Objects
+
+Class:
+- A blueprint/template for creating objects.
+- Defines variables (fields) and methods (functions).
+Example:
+    class Car {
+        String color;
+        void drive() {
+            System.out.println("Car is driving");
+        }
+    }
+
+Object:
+- An instance of a class.
+- Created using the `new` keyword.
+Example:
+    Car myCar = new Car();
+    myCar.color = "Red";
+    myCar.drive();
+
+
+✅ 2. Static Keyword
+
+Usage: Applied to variables, methods, blocks, or nested classes.
+
+Static variable (class variable):
+- Shared among all objects of the class.
+    static int count = 0;
+
+Static method:
+- Belongs to the class, not objects. Can’t access non-static members directly.
+    static void show() {
+        System.out.println("Static method");
+    }
+
+Static block:
+- Runs once when the class is loaded.
+    static {
+        System.out.println("Static block executed");
+    }
+
+
+✅ 3. Final Keyword
+
+Usage: Applied to variables, methods, and classes.
+
+Final variable:
+- Constant value, cannot be changed.
+    final int MAX = 100;
+
+Final method:
+- Cannot be overridden in a subclass.
+    final void display() {
+        System.out.println("Can't override me");
+    }
+
+Final class:
+- Cannot be extended.
+    final class Animal {}
+
+

@@ -1,0 +1,27 @@
+Constructor
+
+- Special method called when an object is created.
+- Same name as the class.
+- No return type (not even void).
+
+Types:
+1. Default Constructor (No arguments):
+    class A {
+        A() {
+            System.out.println("Default Constructor");
+        }
+    }
+
+2. Parameterized Constructor:
+    class A {
+        A(int x) {
+            System.out.println("Value: " + x);
+        }
+    }
+
+3. Constructor Overloading:
+- Multiple constructors with different parameters.
+
+4. Copy Constructor:
+- Not built-in like C++; manually created to copy data from another object.
+
